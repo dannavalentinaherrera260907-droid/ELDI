@@ -1,0 +1,6 @@
+*.vcd
+*.out
+*.txt
+*.vvp
+build
+**/.DS_Store
